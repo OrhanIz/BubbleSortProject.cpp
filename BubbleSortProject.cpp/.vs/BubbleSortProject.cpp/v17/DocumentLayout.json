@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhn23\\source\\repos\\BubbleSortProject.cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE24C70-72C3-4FE8-9178-E2EEF9BA1006}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{BEE24C70-72C3-4FE8-9178-E2EEF9BA1006}|C:\\Users\\rhn23\\source\\repos\\BubbleSortProject.cpp\\benchmark.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEE24C70-72C3-4FE8-9178-E2EEF9BA1006}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{BEE24C70-72C3-4FE8-9178-E2EEF9BA1006}|solutionrelative:benchmark.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB888768-C5A8-4D1E-86F6-A66374E82C3B}|BubbleSortProject.cpp.vcxproj|C:\\Users\\rhn23\\source\\repos\\BubbleSortProject.cpp\\BubbleSortProject.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB888768-C5A8-4D1E-86F6-A66374E82C3B}|BubbleSortProject.cpp.vcxproj|solutionrelative:BubbleSortProject.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "benchmark.h",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\BubbleSortProject.cpp\\benchmark.h",
+              "RelativeDocumentMoniker": "benchmark.h",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\BubbleSortProject.cpp\\benchmark.h",
+              "RelativeToolTip": "benchmark.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T20:12:52.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BubbleSortProject.cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\BubbleSortProject.cpp\\BubbleSortProject.cpp.cpp",
+              "RelativeDocumentMoniker": "BubbleSortProject.cpp.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\BubbleSortProject.cpp\\BubbleSortProject.cpp.cpp",
+              "RelativeToolTip": "BubbleSortProject.cpp.cpp",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T19:41:26.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

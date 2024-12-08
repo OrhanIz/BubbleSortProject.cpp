@@ -1,0 +1,12 @@
+﻿  BubbleSortProject.cpp.cpp
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(63,19): warning C4267: '=': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(63,19): warning C4267:         with
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(63,19): warning C4267:         [
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(63,19): warning C4267:             _Ty=int
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(63,19): warning C4267:         ]
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(71,24): warning C4267: '=': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(71,24): warning C4267:         with
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(71,24): warning C4267:         [
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(71,24): warning C4267:             _Ty=int
+C:\Users\rhn23\source\repos\BubbleSortProject.cpp\BubbleSortProject.cpp.cpp(71,24): warning C4267:         ]
+  BubbleSortProject.cpp.vcxproj -> C:\Users\rhn23\source\repos\BubbleSortProject.cpp\x64\Debug\BubbleSortProject.cpp.exe
